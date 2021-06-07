@@ -2,7 +2,7 @@
 
 Adding diversity to data
 
-For example:
+**For example:**
 ```
 I am going to the <mask> tonight!
 
