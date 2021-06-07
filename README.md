@@ -1,6 +1,8 @@
 # Masked Language Model (NLP) with Transformer Pipeline 
 
-Adding diversity to data
+In this repository, I used a **Huggingface** 🤗 transformer model to generate some candidate responses for a given dialogue and then using transformer pipeline I mask a part of the sentence to generate candidate assumptions with scores.
+
+Adding diversity to data.
 
 **For example:**
 ```
